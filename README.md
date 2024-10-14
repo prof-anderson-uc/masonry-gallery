@@ -10,7 +10,6 @@ This example automatically applied a masonry layout based on the width of the br
 
 ## CSS
 
-
 `.gallery-masonry` - This selector is the container to holds the images. 
 
 `columns: 350px;` - This property sets the goal width of the images in the gallery. Change this value to set the general size of the images. 
