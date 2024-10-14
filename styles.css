@@ -1,0 +1,39 @@
+
+.gallery-masonry {
+   columns: 350px; /* 🡄 Controls the size of images */
+
+   padding: 1rem; /* 🡄 Optional */
+   border: 1px solid silver; /* 🡄 Optional */
+   border-radius: 2rem; /* 🡄 Optional */
+   background-color: aliceblue; /* 🡄 Optional */
+}
+
+.gallery-masonry img {
+   width: 100%;
+   margin-bottom: 1rem;
+   filter: drop-shadow(2px 2px 5px); /* 🡄 Optional */
+}
+
+/* Header styles (not the gallery areas)
+-------------------------*/
+
+header {
+   background-color: #cacbca;
+   text-align: center;
+   padding: 1rem;
+   border-radius: 2rem;
+   margin-bottom: 1rem;
+}
+
+header h1 {
+   font-size: 1.75rem;
+   margin: 0 0 0.25rem 0;
+   padding: 0 0 0.25rem 0;
+   border-bottom: 1px solid rgb(160, 159, 159);
+}
+
+header h2 {
+   font-size: 1rem;
+   margin: 0;
+   padding: 0;
+}
