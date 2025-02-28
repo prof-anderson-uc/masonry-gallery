@@ -4,6 +4,8 @@ In web design, a "masonry" style image gallery refers to a layout where images o
 
 This style is particularly useful when dealing with images of varying sizes, as it allows designers to maximize the use of space while maintaining an aesthetically pleasing arrangement. It creates a fluid, modern appearance that can handle both large and small images in a cohesive way.
 
+This is what happens when I make a change in the middle
+
 This example automatically applied a masonry layout based on the width of the browser window and/or the size of the containing element. Change the size of the browser to see it in action. gallery-masonry
 
 
@@ -17,4 +19,5 @@ This example automatically applied a masonry layout based on the width of the br
 
 `.gallery-masonry img` - This selector affects the images that are inside the gallery area. 
 
-> This is a change to a fork of the original repo
+> This is a change to a fork of the original repo!
+> This is adding something to the end
