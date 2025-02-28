@@ -20,4 +20,4 @@ This example automatically applied a masonry layout based on the width of the br
 `.gallery-masonry img` - This selector affects the images that are inside the gallery area. 
 
 ## Example
-You can preview a working example of it **(here)[https://prof-anderson-uc.github.io/masonry-gallery/]**
+You can preview a working example of it **[here](https://prof-anderson-uc.github.io/masonry-gallery)**
