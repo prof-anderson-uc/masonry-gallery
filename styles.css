@@ -1,21 +1,23 @@
+/* This example automatically displays a group of images in a "masonry" style layout */
 
 .gallery-masonry {
-   columns: 350px; /* 🡄 Controls the size of images */
+   columns: 350px; /* Controls the size of images */
 
-   padding: 1rem; /* 🡄 Optional */
-   border: 1px solid silver; /* 🡄 Optional */
-   border-radius: 2rem; /* 🡄 Optional */
-   background-color: aliceblue; /* 🡄 Optional */
+   padding: 1rem; /* Optional */
+   border: 1px solid silver; /* Optional */
+   border-radius: 2rem; /* Optional */
+   background-color: aliceblue; /* Optional */
 }
 
 .gallery-masonry img {
    width: 100%;
    margin-bottom: 1rem;
-   filter: drop-shadow(2px 2px 5px); /* 🡄 Optional */
+   border: 3px solid white;
+   filter: drop-shadow(2px 2px 5px); /* Optional */
 }
 
 /* Header styles (not the gallery areas)
--------------------------*/
+-----------------------------------------*/
 
 header {
    background-color: #cacbca;
@@ -37,3 +39,5 @@ header h2 {
    margin: 0;
    padding: 0;
 }
+
+/*  This was added to the very end */
